@@ -1,7 +1,7 @@
 name: nicolasmejia
 favicon: null
-layout_spectrum: 0.017438569338992238
-typography_spectrum: 0.6098277987912297
+layout_spectrum: 1
+typography_spectrum: 0.31503
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.20012767100706697
+  brandStrength: 0.5
   lightness: 0.9448630600236356
-  saturation: 0.38639789656735957
+  saturation: 0.375
   rhythmicContrast: 0.6410444320645183
 purpose: []
